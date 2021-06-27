@@ -7,7 +7,7 @@
 
 - You can reach me here: **Twitter**; Mingzhi50, **Discord**; Ming#5356
 
-- Upcoming projects for myself/BlitzCream: games (BlitzCream), Discord stuff (BlitzCream), websites (BlitzCream/myself).
+- Upcoming projects for myself/BlitzCream: games (BlitzCream), Discord stuff (myself), websites (BlitzCream/myself).
 
 <!---
 Mingzhi5/Mingzhi5 is a special repo because its `README.md` (this file) appears on your GitHub profile.
