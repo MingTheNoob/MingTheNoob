@@ -1,2 +1,1 @@
-# Hi, I’m @Mingzhi5
-I am moving on from making Discord utilities completely. I had fun testing with BetterDiscord plugins and themes for myself, but I simply will not have the time to make or maintain plugins for people to use. School has arrived and I have other larger projects to work on for myself and for BlitzCream. Ming'sUtilities is here to stay though!  I have plans to make bigger projects for Ming'sUtilities and I will be releasing updates on those soon.
+oi
