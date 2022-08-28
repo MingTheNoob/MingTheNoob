@@ -15,8 +15,8 @@
 <a href="https://discord.gg/WaPgUY5gd4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WaPgUY5gd4" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mingthenoob&show_icons=true&locale=en&layout=compact" alt="mingthenoob" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mingthenoob&show_icons=true&locale=en&layout=compact" alt="mingthenoob" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mingthenoob&show_icons=true&locale=en" alt="mingthenoob" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mingthenoob&" alt="mingthenoob" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mingthenoob&" alt="mingthenoob" /></p>
