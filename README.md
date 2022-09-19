@@ -7,7 +7,7 @@
 
 - I’m looking to collaborate on other web development projects.
 
-- I’m looking for help with game development, [contact here](https://twitter.com/BlitzCreamSt).
+- I’m looking for help with game development, [contact here](https://twitter.com/BlitzStu).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
