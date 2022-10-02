@@ -20,3 +20,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mingthenoob&show_icons=true&locale=en" alt="mingthenoob" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mingthenoob&" alt="mingthenoob" /></p>
+
+&nbsp;
+___
+&nbsp;
+
+<h1 align="center">My WebDev Stack</h1>
+
+- HTML
+- CSS, Bootstrap
+- JavaScript, Bootstrap, jQuery
