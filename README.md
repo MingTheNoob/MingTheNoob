@@ -1,7 +1,7 @@
 <h1 align="center">hello, i'm ming.</h1>
 <h3 align="center">a noob dev that barely knows html.</h3>
 
-- I’m currently working on web development for [my site](https://ming.jp.net).
+- I’m currently working on web development for [my site](https://utilities.ming.jp.net).
 
 - I’m currently learning how to center a div.
 
